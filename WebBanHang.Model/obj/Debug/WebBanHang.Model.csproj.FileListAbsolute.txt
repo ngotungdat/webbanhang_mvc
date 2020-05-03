@@ -1,0 +1,12 @@
+E:\Project\WebBanHang\WebBanHang.Model\bin\Debug\WebBanHang.Model.dll.config
+E:\Project\WebBanHang\WebBanHang.Model\bin\Debug\WebBanHang.Model.dll
+E:\Project\WebBanHang\WebBanHang.Model\bin\Debug\WebBanHang.Model.pdb
+E:\Project\WebBanHang\WebBanHang.Model\bin\Debug\EntityFramework.dll
+E:\Project\WebBanHang\WebBanHang.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\WebBanHang\WebBanHang.Model\bin\Debug\EntityFramework.xml
+E:\Project\WebBanHang\WebBanHang.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\WebBanHang\WebBanHang.Model\obj\Debug\WebBanHang.Model.csprojAssemblyReference.cache
+E:\Project\WebBanHang\WebBanHang.Model\obj\Debug\WebBanHang.Model.csproj.CoreCompileInputs.cache
+E:\Project\WebBanHang\WebBanHang.Model\obj\Debug\WebBanHang.Model.csproj.CopyComplete
+E:\Project\WebBanHang\WebBanHang.Model\obj\Debug\WebBanHang.Model.dll
+E:\Project\WebBanHang\WebBanHang.Model\obj\Debug\WebBanHang.Model.pdb
